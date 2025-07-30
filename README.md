@@ -1,4 +1,4 @@
-#Cześć! 👋
+# Cześć! 👋
 
 To jest moja testowa kolekcja Postmana, która wykorzystuje darmowe API dostępne na platformie reqres.in.
 
