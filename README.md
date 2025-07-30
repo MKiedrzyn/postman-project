@@ -11,6 +11,4 @@ Celem jej stworzenia było zaprezentowanie moich umiejętności związanych z ob
 - wyciąganie danych z odpowiedzi i wykorzystywanie ich w kolejnych zapytaniach,
 - organizacja i struktura kolekcji.
 
-📁 Kolekcja jest przejrzysta i łatwa do edytowania — możesz ją wykorzystać jako punkt wyjścia do własnych testów automatycznych REST API.
-
 Dzięki za sprawdzenie! 🙂
