@@ -1,0 +1,15 @@
+{
+	"id": "9a3b9894-81e9-4f8a-8d02-95fc0c1f0940",
+	"values": [
+		{
+			"key": "Actual job",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-07-30T15:33:29.906Z",
+	"_postman_exported_using": "Postman/11.56.2"
+}
