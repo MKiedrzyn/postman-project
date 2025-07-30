@@ -13,4 +13,4 @@ Celem jej stworzenia było zaprezentowanie moich umiejętności związanych z ob
 
 Dzięki za sprawdzenie! 🙂
 
-ps. dla łatwiejszego obczajenia wrzucam [link](https://www.postman.com/supply-engineer-6174792-2210625/workspace/micha-kiedrzyn-s-workspace/collection/47197026-210cb8d2-ccc4-4d92-851a-ab7851d5aa05?action=share&creator=47197026) który jest publiczny.
+ps. dla łatwiejszego obczajenia wrzucam [link](https://www.postman.com/supply-engineer-6174792-2210625/workspace/micha-kiedrzyn-s-workspace/collection/47197026-210cb8d2-ccc4-4d92-851a-ab7851d5aa05?action=share&creator=47197026) który jest publiczny i nie trzeba nic pobierać lokalnie 😄
