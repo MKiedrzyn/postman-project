@@ -1,6 +1,6 @@
 # Cześć! 👋
 
-To jest moja testowa kolekcja Postmana, która wykorzystuje darmowe API dostępne na platformie reqres.in.
+To jest moja testowa kolekcja Postmana, która wykorzystuje darmowe API dostępne na platformie [reqres.in](https://reqres.in/).
 
 Celem jej stworzenia było zaprezentowanie moich umiejętności związanych z obsługą Postmana i jego funkcji, takich jak:
 
