@@ -7,7 +7,7 @@ Celem jej stworzenia było zaprezentowanie moich umiejętności związanych z ob
 - tworzenie [kolekcji i requestów](https://github.com/MKiedrzyn/postman-project/tree/main/Postman/collections),
 - korzystanie ze [zmiennych globalnych](https://github.com/MKiedrzyn/postman-project/tree/main/Postman/globals),
 - korzystanie ze [zmiennych środowiskowych](https://github.com/MKiedrzyn/postman-project/tree/main/Postman/environments) *(reqres.in ich nie obsługuje, ale mimo to zostały dodane)*,
-- użycie skryptów **pre-request** oraz **testów** (*test scripts*),
+- użycie skryptów **pre-request**/**post-request** oraz **testów** (*test scripts*),
 - wyciąganie danych z odpowiedzi i wykorzystywanie ich w kolejnych zapytaniach,
 - organizacja i struktura kolekcji.
 
